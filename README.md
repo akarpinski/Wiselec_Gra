@@ -1,4 +1,4 @@
-## Memory
+## Wisielec
 Gra komputerowa w języku C#
 
 ### Zasady gry
