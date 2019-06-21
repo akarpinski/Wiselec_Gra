@@ -5,7 +5,7 @@ Gra komputerowa w języku C#
 1. Otrzymujemy słowo do odgadnięcia.
 2. Pierwsza i ostatnia litera widoczne, pozostałe puste do wpisania właściwej litery.
 3. Gdy wpisujemy litery, liczba błędów ograniczona. Jak 5 błedów, to :-1:.
-4. Gdy wszystkie pola odkryte, to koniec gry, ZWYCIĘSTWO :thumpsup:!
+4. Gdy wszystkie pola odkryte, to koniec gry, ZWYCIĘSTWO :thumbsup:!
 
 Powodzenia i miłej zabawy :smile:
 
