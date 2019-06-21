@@ -1,0 +1,10 @@
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Wisielec\Wisielec\bin\Debug\Wisielec.exe.config
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Wisielec\Wisielec\bin\Debug\Wisielec.exe
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Wisielec\Wisielec\bin\Debug\Wisielec.pdb
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Wisielec\Wisielec\obj\Debug\Wisielec.csprojResolveAssemblyReference.cache
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Wisielec\Wisielec\obj\Debug\Wisielec.Form1.resources
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Wisielec\Wisielec\obj\Debug\Wisielec.Properties.Resources.resources
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Wisielec\Wisielec\obj\Debug\Wisielec.csproj.GenerateResource.cache
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Wisielec\Wisielec\obj\Debug\Wisielec.csproj.CoreCompileInputs.cache
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Wisielec\Wisielec\obj\Debug\Wisielec.exe
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Wisielec\Wisielec\obj\Debug\Wisielec.pdb
